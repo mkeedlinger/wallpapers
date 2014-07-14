@@ -1,6 +1,6 @@
-# wallpapers
+# Papes
 
-A repo of the best repos we could find
+A repo of the best wallpapers we could find
 
 
 ## Credits
